@@ -30,9 +30,7 @@ with open("copytxt","w") as fp1:
 
 ```
 ### OUTPUT:
-![330494789-44f59c76-7b2f-405a-a9fc-95d5afeab2a2](https://github.com/KISHORENARAYANANSR/Copy-File/assets/148202102/501b4330-1c0f-405f-ac0b-7461bc6d81a3)
-
-![330494736-d25ad1e7-5772-4432-ba1f-1a934a8b7aa3](https://github.com/KISHORENARAYANANSR/Copy-File/assets/148202102/d038fbed-54c8-4924-b05c-75ef4b9875e9)
+![329847030-c6ce7d10-b50f-444c-9098-dc7567b3a446](https://github.com/KISHORENARAYANANSR/Copy-File/assets/148202102/749c9a73-866d-4a29-988d-a6893afdd632)
 
 
 ## RESULT:
